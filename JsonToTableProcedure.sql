@@ -1,5 +1,3 @@
-USE Test;
-
 DELIMITER //
 
 -- Drop the procedure if it exists (Due to working on this in console)
